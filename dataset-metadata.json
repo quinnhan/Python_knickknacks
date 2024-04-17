@@ -1,0 +1,41 @@
+{
+  "id": "henryshan/2023-data-scientists-salary",
+  "id_no": 4164244,
+  "datasetSlugNullable": "2023-data-scientists-salary",
+  "ownerUserNullable": "henryshan",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "2023 Data Scientists Salary",
+  "subtitleNullable": "Salaries of Different Data Science Fields in the Data Science Domain",
+  "descriptionNullable": "## Summary\nThe aim of this study is to investigate the factors influencing the salaries of Data Scientists. To achieve this, a dataset containing various relevant variables was utilized. This report describes the exploratory analysis conducted to understand the relationship between these factors and Data Scientists' salaries.\n\n## Introduction\nData science is a rapidly growing field, and Data Scientists play a crucial role in analyzing and interpreting large volumes of data. As this profession becomes increasingly in demand, it is important to understand the factors that may influence Data Scientists' salaries. This analysis focuses on investigating these factors and their impact on salaries.\n\n## Dataset\nTo conduct this analysis, a dataset containing relevant information about Data Scientists was used. The dataset includes the following variables:\n\n`work_year: `The year the salary was paid.\n\n`experience_level:` The experience level in the job during the year.\n\n- `EN` &gt; Entry-level / Junior\n- `MI`&gt; Mid-level / Intermediate\n- `SE` &gt; Senior-level / Expert\n- `EX` &gt; Executive-level / Director\n\n`employment_type:` The type of employment for the role.\n\n- `PT` &gt; Part-time\n- `FT` &gt; Full-time\n- `CT` &gt; Contract\n- `FL` &gt; Freelance\n\n`job_title:` The role worked in during the year.\n\n`salary:` The total gross salary amount paid.\n\n`salary_currency`: The currency of the salary paid as an ISO 4217 currency code.\n\n`salaryinusd:` The salary in USD.\n\n`employee_residence:` Employee's primary country of residence during the work year as an ISO 3166 country code.\n\n`remote_ratio:`The overall amount of work done remotely.\n\n`company_location:` The country of the employer's main office or contracting branch.\n\n`company_size`: The median number of people that worked for the company during the year.\n",
+  "datasetId": 4164244,
+  "datasetSlug": "2023-data-scientists-salary",
+  "hasDatasetSlug": true,
+  "ownerUser": "henryshan",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 20798,
+  "totalVotes": 91,
+  "totalDownloads": 5182,
+  "title": "2023 Data Scientists Salary",
+  "hasTitle": true,
+  "subtitle": "Salaries of Different Data Science Fields in the Data Science Domain",
+  "hasSubtitle": true,
+  "description": "## Summary\nThe aim of this study is to investigate the factors influencing the salaries of Data Scientists. To achieve this, a dataset containing various relevant variables was utilized. This report describes the exploratory analysis conducted to understand the relationship between these factors and Data Scientists' salaries.\n\n## Introduction\nData science is a rapidly growing field, and Data Scientists play a crucial role in analyzing and interpreting large volumes of data. As this profession becomes increasingly in demand, it is important to understand the factors that may influence Data Scientists' salaries. This analysis focuses on investigating these factors and their impact on salaries.\n\n## Dataset\nTo conduct this analysis, a dataset containing relevant information about Data Scientists was used. The dataset includes the following variables:\n\n`work_year: `The year the salary was paid.\n\n`experience_level:` The experience level in the job during the year.\n\n- `EN` &gt; Entry-level / Junior\n- `MI`&gt; Mid-level / Intermediate\n- `SE` &gt; Senior-level / Expert\n- `EX` &gt; Executive-level / Director\n\n`employment_type:` The type of employment for the role.\n\n- `PT` &gt; Part-time\n- `FT` &gt; Full-time\n- `CT` &gt; Contract\n- `FL` &gt; Freelance\n\n`job_title:` The role worked in during the year.\n\n`salary:` The total gross salary amount paid.\n\n`salary_currency`: The currency of the salary paid as an ISO 4217 currency code.\n\n`salaryinusd:` The salary in USD.\n\n`employee_residence:` Employee's primary country of residence during the work year as an ISO 3166 country code.\n\n`remote_ratio:`The overall amount of work done remotely.\n\n`company_location:` The country of the employer's main office or contracting branch.\n\n`company_size`: The median number of people that worked for the company during the year.\n",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "business",
+    "education",
+    "computer science"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Apache 2.0",
+      "name": "Apache 2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
